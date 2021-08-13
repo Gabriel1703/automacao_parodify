@@ -1,0 +1,12 @@
+{"level":30,"time":"2021-08-13T18:37:13.411Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Listening on 60588"}
+{"level":30,"time":"2021-08-13T18:37:14.414Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-08-13T18:37:14.442Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Changed active context"}
+{"level":30,"time":"2021-08-13T18:37:14.789Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Video path: undefined"}
+{"level":30,"time":"2021-08-13T18:37:14.789Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Changed active page"}
+{"level":30,"time":"2021-08-13T18:37:19.899Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Getting css of element on page"}
+{"level":30,"time":"2021-08-13T18:37:20.045Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Changed active context"}
+{"level":30,"time":"2021-08-13T18:37:20.045Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Changing current active page"}
+{"level":30,"time":"2021-08-13T18:37:20.045Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Changed active page"}
+{"level":30,"time":"2021-08-13T18:37:20.060Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Changed active context"}
+{"level":30,"time":"2021-08-13T18:37:20.060Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Changing current active page"}
+{"level":30,"time":"2021-08-13T18:37:20.060Z","pid":12836,"hostname":"LAPTOP-V5IBMJLB","msg":"Changed active page"}
